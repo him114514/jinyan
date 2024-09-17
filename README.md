@@ -1,9 +1,7 @@
-# JinYan2.4
--测试中
+# JinYan3.0
+🤓👇
 
--只支持禁言所有玩家
-
--目前加入了配置文件的功能
+使用教程：
 
 输入/jinyan 玩家名称 禁言指定的玩家
 
@@ -15,7 +13,7 @@
 
 输入/jyreload 重载插件
 
-输入/jyhelp 为插件帮助
-![屏幕截图 2024-09-17 112657](https://github.com/user-attachments/assets/6a81d896-68bc-4ac4-83d7-506827826c76)
+输入/jyhelp 为插件帮助![屏幕截图 2024-09-17 213453](https://github.com/user-attachments/assets/3253b07e-9e0b-4a26-94bf-fca5410bdb5f)
 
--![6CB1B3CD8A0FBE035AE3910BA2173390](https://github.com/user-attachments/assets/389e21c4-83bf-4881-b05c-410264ee4ead)
+![屏幕截图 2024-09-17 213539](https://github.com/user-attachments/assets/932770d2-9bea-4819-84e9-196d3b137f22)
+
